@@ -12,7 +12,7 @@ Some key findings include:
 - 22.49% of restaurants are unrated in the dataset.
 - 1,158 restaurants are classified as high-performing based on the project's analytical thresholds.
 
-👉 **[View Detailed Business Insights](insights/business_insights.md)**
+[View Detailed Business Insights](Insights/business_insights.md)
 
 ## Power BI Dashboard
 
